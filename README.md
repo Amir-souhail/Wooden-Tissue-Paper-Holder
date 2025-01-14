@@ -43,10 +43,7 @@ All SolidWorks parts, assembly files, technical drawings, and images are located
 2. **Upper Supports** — Secure the upper supports between the side frames to hold the tissue paper roll.
 3. Ensure all parts are aligned and secured properly for stability.
 
----
 
-## 📷 Preview
-![Wooden-Tissue-Paper-Holder](Files/Tissue Holder Assembly.jpg)
 
 ---
 
