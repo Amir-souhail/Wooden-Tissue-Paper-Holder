@@ -8,22 +8,6 @@ This repository contains the complete 3D design, assembly, and technical drawing
 
 This project can be used for learning purposes, manufacturing the holder, or as a reference for other CAD design projects.
 
----
-
-## 📁 Repository Structure
-```
-Tissue-Holder-Project/
-│
-├── Files/
-│   ├── TissueHolderAssembly.SLDASM       # SolidWorks assembly file
-│   ├── SideFrame.SLDPRT                  # SolidWorks part file for the side frame
-│   ├── BaseSupport.SLDPRT                # SolidWorks part file for the base support
-│   ├── UpperSupport.SLDPRT               # SolidWorks part file for the upper support
-│   ├── TissueHolderDrawing.PDF           # PDF technical drawing with dimensions
-│   └── TissueHolderRender.jpg            # Rendered image of the tissue paper holder
-│
-└── README.md                             # Project description and instructions
-```
 
 ---
 
