@@ -46,7 +46,7 @@ All SolidWorks parts, assembly files, technical drawings, and images are located
 ---
 
 ## 📷 Preview
-![Tissue Holder Render](Files/Tissue Holder Assembly.jpg)
+![Wooden-Tissue-Paper-Holder](Files/Tissue Holder Assembly.jpg)
 
 ---
 
