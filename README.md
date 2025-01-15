@@ -1,4 +1,3 @@
-
 ---
 
 # Tissue Paper Holder - SolidWorks Project
@@ -8,10 +7,11 @@ This repository contains the complete 3D design, assembly, and technical drawing
 
 This project can be used for learning purposes, manufacturing the holder, or as a reference for other CAD design projects.
 
+## 🖼️ Preview  
+
 <div align="center">
-    <img src="Tissue%20Holder%20Assembly.JPG" alt="Preview" width="25%" height="25%">
+    <img src="Tissue%20Holder%20Assembly.JPG" alt="Preview" width="50%" height="50%">
 </div>
----
 
 ## 🛠️ Files Included
 All SolidWorks parts, assembly files, technical drawings, and images are located in the **Files** folder:
@@ -44,8 +44,6 @@ All SolidWorks parts, assembly files, technical drawings, and images are located
 1. **Side Frames** — Attach the side frames to the base supports using screws or fasteners.
 2. **Upper Supports** — Secure the upper supports between the side frames to hold the tissue paper roll.
 3. Ensure all parts are aligned and secured properly for stability.
-
-
 
 ---
 
