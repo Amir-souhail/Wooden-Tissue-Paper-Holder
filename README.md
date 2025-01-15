@@ -8,7 +8,7 @@ This repository contains the complete 3D design, assembly, and technical drawing
 
 This project can be used for learning purposes, manufacturing the holder, or as a reference for other CAD design projects.
 
-![Preview](Tissue%20Holder%20Assembly.JPG) 
+<img src="Tissue%20Holder%20Assembly.JPG" alt="Preview" width="50%">
 ---
 
 ## 🛠️ Files Included
