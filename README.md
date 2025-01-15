@@ -8,7 +8,7 @@ This repository contains the complete 3D design, assembly, and technical drawing
 
 This project can be used for learning purposes, manufacturing the holder, or as a reference for other CAD design projects.
 
-
+![Preview](main/preview.jpg)
 ---
 
 ## 🛠️ Files Included
